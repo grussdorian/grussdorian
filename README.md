@@ -1,0 +1,6 @@
+- 👋🏽 Hi, I’m Hardik
+- 👀 I’m looking forward to work on democratizing logic design for everyone.
+- 🌱 I’m currently learning about RISC V ISA and edge compatible logic design. 
+- 💞️ Love everything software engineering and server side backend, Deep Ops, and making custom roms for dying android devices.
+- 🎸 Fingerstyle Accoustic nerd 🤘🏽🤘🏽🤘🏽
+- ✈️ Open to remote work. 📭 https://www.linkedin.com/in/hardik-ghoshal-96a3391b6/
