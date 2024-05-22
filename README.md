@@ -1,3 +1,2 @@
-- Bootloading
-- Open to work https://www.linkedin.com/in/hardik-ghoshal-96a3391b6/
 - Email hardik.ghoshal@mailbox.tu-dresden.de
+- Open to work
